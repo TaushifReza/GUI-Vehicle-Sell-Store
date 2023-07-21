@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ A\ parents\ class\ Vecile\ is\ created\ with\ five\ attribute\ vehivleID,\ vehicleNameVehicleWeight,\ vehicleWeight,\ vehicleColor\ and\ \r\n\ vehicleSpeed.\ The\ vehicleID\ represent\ int\ while\ rest\ as\ String\ data\ type.\ a\ constructor\ is\ created\ with\ five\ parameter\ and\ \r\n\ initilize\ the\ parameter\ value\ into\ the\ constructor.\ Acessor\ method\ is\ made\ for\ each\ atrribue\ while\ mutator\ method\ is\ made\ for\r\n\ only\ vehicleSpeed\ and\ vehicleColor.\ A\ display\ method\ is\ made\ with\ suitable\ annotated\ output\ for\ each\ attribute\ and\ if\ \r\n\ vehicleWeight\ is\ empty\ the\ empty\ message\ is\ display.\r\n\ \r\n\ @MOHAMMAD\ TAUSHIF\ REZA\r\n\ 2022/05/16\r\n
+comment1.params=vehicleID\ vehicleName\ vehicleColor\ vehicleWeight
+comment1.target=Vehicle(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ \ A\ constructor\ for\ Vehicle\ Class\ is\ created\ with\ four\ parameter\ vehicleID,\ VehicleName,\ vehicleColor\ and\ vehicleWeight.\r\n\ \ \ \ \ \ \ The\ parameter\ value\ is\ initilize\ within\ the\ constructor.\ \r\n
+comment2.params=
+comment2.target=int\ getvehicleID()
+comment3.params=
+comment3.target=java.lang.String\ getvehicleName()
+comment4.params=
+comment4.target=java.lang.String\ getvehicleWeight()
+comment5.params=
+comment5.target=java.lang.String\ getvehicleColor()
+comment6.params=
+comment6.target=java.lang.String\ getvehicleSpeed()
+comment7.params=vehicleSpeed
+comment7.target=void\ setvehicleSpeed(java.lang.String)
+comment8.params=vehicleColor
+comment8.target=void\ setvehicleColor(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+comment9.text=\r\n\ \ \ \ \ \ \ A\ display\ method\ for\ Vehicle\ class\ is\ created\ to\ display\ vehicleID,\ vehicleName,\ vehicleColor\ and\ vehicleSpeed.\ If\ \r\n\ \ \ \ \ \ \ vehicleWeight\ is\ empty\ a\ empty\ message\ is\ display\ with\ suitable\ annotation.\ \ \ \r\n
+numComments=10
